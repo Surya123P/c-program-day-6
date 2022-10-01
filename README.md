@@ -1,1 +1,0 @@
-# c-program-day-6
